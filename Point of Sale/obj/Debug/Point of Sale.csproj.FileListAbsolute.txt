@@ -1,0 +1,135 @@
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.exe.config
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.exe
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.pdb
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Drawing.Common.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.exe
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.pdb
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.LoginForm.resources
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.UserForm.resources
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\RestSharp.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Buffers.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.CodeDom.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.Odbc.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.OleDb.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.SqlClient.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.Packaging.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.Ports.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Memory.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.AccessControl.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Permissions.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.Fody.CopyLocal.cache
+C:\Users\acer\OneDrive\Desktop\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.ReceiptForm.resources
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.exe.config
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.exe
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.pdb
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.Registry.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Newtonsoft.Json.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\RestSharp.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Buffers.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.CodeDom.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.Odbc.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.OleDb.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.SqlClient.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Diagnostics.EventLog.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Drawing.Common.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.Packaging.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.Ports.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Memory.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Numerics.Vectors.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.AccessControl.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Permissions.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Principal.Windows.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.ServiceModel.Syndication.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Threading.AccessControl.xml
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.LoginForm.resources
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.ReceiptForm.resources
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.UserForm.resources
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.Fody.CopyLocal.cache
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.exe
+D:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.pdb
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.exe.config
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.exe
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Point of Sale.pdb
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.Registry.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\Newtonsoft.Json.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\RestSharp.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Buffers.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.CodeDom.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.Odbc.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.OleDb.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Data.SqlClient.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Diagnostics.EventLog.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Drawing.Common.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.Packaging.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.IO.Ports.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Memory.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Numerics.Vectors.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.AccessControl.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Permissions.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Security.Principal.Windows.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.ServiceModel.Syndication.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\bin\Debug\System.Threading.AccessControl.xml
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.AssemblyReference.cache
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.LoginForm.resources
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.Properties.Resources.resources
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.ReceiptForm.resources
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point_of_Sale.UserForm.resources
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.GenerateResource.cache
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.CoreCompileInputs.cache
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.Fody.CopyLocal.cache
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.csproj.CopyComplete
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.exe
+E:\01_iLS Project C# ( pos )\Point of Sale\obj\Debug\Point of Sale.pdb
